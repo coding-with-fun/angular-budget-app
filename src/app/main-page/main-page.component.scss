@@ -1,5 +1,9 @@
 @import "../../main-styles.scss";
 
+.budget-calculator {
+  font-family: "Lato";
+}
+
 .top-bar {
   display: flex;
   width: 100%;
@@ -11,7 +15,6 @@
   align-items: center;
 
   h1 {
-    font-family: "Lato";
     font-size: 18px;
     letter-spacing: 1px;
     font-weight: 900;
@@ -30,7 +33,6 @@
   align-items: center;
 
   h2 {
-    font-family: "Lato";
     font-weight: 300;
     font-size: 58px;
     color: white;
